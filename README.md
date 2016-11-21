@@ -9,29 +9,29 @@ The framework source code can be found here: [cakephp/cakephp](https://github.co
 
 ## Installation
 
- Download [Composer](http://getcomposer.org/doc/00-intro.md) or update `composer self-update`.
+-> Download [Composer](http://getcomposer.org/doc/00-intro.md) or update `composer self-update`.
 
 Clone project with below command 
 
    Run below command to clone this project.
-git clone https://github.com/ashishonmobile/cakephp3_adminlte_2.git <folder_name>
+ >git clone https://github.com/ashishonmobile/cakephp3_adminlte_2.git <folder_name>
 
 Download libraries from below command.
- php composer.phar update
+ >php composer.phar update
 
- php composer.phar instal (this will create missing app.php file, logs and tmp folders)
+ >php composer.phar instal (this will create missing app.php file, logs and tmp folders)
 
 Create a database in mysql, You can give any name to it.
 
 than run below command to create the table in database.
 
- php bin/cake.php migrations migrate
+ >php bin/cake.php migrations migrate
 
 now its time to bake controller, model and template
 
- php bin/cake.php bake model all
- php bin/cake.php bake controller all
- php bin/cake.php bake template all
+ >php bin/cake.php bake model all
+ >php bin/cake.php bake controller all
+ >php bin/cake.php bake template all
 
 This will create all the required php files and ctp files in project.
 
