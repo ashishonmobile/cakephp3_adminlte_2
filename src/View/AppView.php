@@ -36,5 +36,7 @@ class AppView extends View
      */
     public function initialize()
     {
+        //adding code as per "maiconpinto/cakephp-adminlte-theme"
+        $this->loadHelper('Form', ['className' => 'AdminLTE.Form']);
     }
 }
