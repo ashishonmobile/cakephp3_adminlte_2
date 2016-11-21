@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "fb1847c84b2acaa68f96694b4c9fc164",
-    "content-hash": "ec67005ac5e485f26f6674dad59417f6",
+    "hash": "9f19c52f9e2b0bc2effef67b146bc2fc",
+    "content-hash": "5dcab7822624ef8c0f5638633266eac5",
     "packages": [
         {
             "name": "aura/installer-default",
