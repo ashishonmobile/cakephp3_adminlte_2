@@ -5,7 +5,6 @@
 
 A skeleton for creating applications with Cakephp3 and Adminlte 2 theme
 
-The framework source code can be found here: [cakephp/cakephp](https://github.com/cakephp/cakephp).
 
 ## Installation
 
