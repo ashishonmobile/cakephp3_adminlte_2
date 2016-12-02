@@ -18,7 +18,7 @@ Clone project with below command
 Download libraries from below command.
  >php composer.phar update
 
- >php composer.phar instal (this will create missing app.php file, logs and tmp folders)
+ >php composer.phar install (this will create missing app.php file, logs and tmp folders)
 
 Create a database in mysql, You can give any name to it.
 
