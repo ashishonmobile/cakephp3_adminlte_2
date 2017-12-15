@@ -10,7 +10,7 @@
         "mobiledetect/mobiledetectlib": "2.*",
         "cakephp/migrations": "^1.6",
         "cakephp/plugin-installer": "*",
-        "maiconpinto/cakephp-adminlte-theme": "^1.0"
+        "maiconpinto/cakephp-adminlte-theme": "1.0.5"
     },
     "require-dev": {
         "psy/psysh": "@stable",
